@@ -1,0 +1,22 @@
+drop table players_salary;
+CREATE TABLE players_salary (
+	index INT,
+	player_name VARCHAR,
+	salary INT,
+	age INT,
+	games_played DECIMAL,
+	minutes_played DECIMAL,
+	field_goal_percent DECIMAL,
+	three_point_percent DECIMAL,
+	two_point_percent DECIMAL,
+	effective_field_goal DECIMAL,
+	free_throw_percent DECIMAL,
+	total_rebounds DECIMAL,
+	assist DECIMAL,
+	steal DECIMAL,
+	blocking DECIMAL,
+	points DECIMAL
+);
+
+select * from players_salary;
+
