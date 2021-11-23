@@ -6,8 +6,3 @@ We are the Data Robots Sports Agency, an industry leader based in Atlanta, GA. W
 <h3/>Data Sources:</h3><br/>
 - https://www.kaggle.com/koki25ando/salary <br/>
 - https://www.kaggle.com/mcamli/nba17-18?select=nba_extra.csv <br/><br/>
-
-<h3>Models Used:</h3><br/>
-- <br/>
-- <br/>
-  
